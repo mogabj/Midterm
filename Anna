@@ -1,0 +1,104 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <style>
+    a:hover{
+      background-color:white;
+    }
+        table, tr, th {
+      border:1px solid white;
+      }
+    body {background-color: Black;
+      color: white;
+      font-size:50px;
+      font-family:"Optima", sans-serif;
+    }
+    .link{
+      font-size:20px;
+      
+    }
+     </style>
+      <title>
+        Midterm
+      </title>
+  </head>
+  
+  <body>
+    <h2 id="top">
+      This is my
+      <u><i>Midterm</i></u>
+    </h2>
+    
+      When looking at this keep in mind that I am a beginer at coding, and it may not look very pretty, but I did my darndest.<br> Anyway keep paying attention because I have everything I need to pass this <u><i>midterm</i></u>. <br> <br>Some of the things that I need in <b>my</b> <u><i>midterm</i></u> are
+      
+    <ul>
+      <li>
+        Images
+      </li>
+      <li>
+        Tables
+      </li>
+      <li>
+        Lists
+      </li>
+      <li>
+        Links
+      </li>
+    </ul>
+    I'm personaly pretty proud of myself for getting this far with my project so far. What do you think
+    <br>
+    <br>
+    <table>
+      <tr>
+        <th>
+          Yes
+        </th>
+        <th>
+          No
+        </th>
+      </tr>
+      <tr>
+        <th>
+          Maybe
+        </th>
+        <th>
+          I don't know
+        </th>
+      </tr>
+    </table>
+    <div class="link">
+    <a href="#top">Top</a>
+    </div>
+    <br>
+    This is my
+    <a href="externalfile:drive-df46bd1f10f335d1ff4028bc2524d511eac67612/other/input.html" target="_blank">Friends Midterm</a>
+    <br>
+    This is my other
+    <a href="externalfile:drive-df46bd1f10f335d1ff4028bc2524d511eac67612/other/HTML%20Midterm.html" target="_blank">Friends Midterm</a>
+    <br>
+    And one more
+    <a href="externalfile:drive-df46bd1f10f335d1ff4028bc2524d511eac67612/other/GravyWorld" target="_blank">Midterm</a>
+    <br>
+    <br>
+    We are doing great so far! Yay!
+    <br>
+    <br>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujacK-CTMVg0b5bZJkAnyQkFzhLRAZQyFsipfMwaZUXvoNpW_Ig" alt="Bill Nye The Science Guy with a thumbs up">
+    <br>
+    <br>
+    This has been the <u><i>midterm</i></u> for my class I hope you have enjoyed it!
+    <br>
+    <br>
+    <img src="https://media.giphy.com/media/3oriO5EMLxl1f7funu/giphy.gif" alt="Any Questions, by David S. Pumpkins">
+    <br>
+    <br>
+    Thanks...Byeeee
+    <br>
+    <div class="link">
+      <a href="#top">Top</a>
+    </div>
+  </body>
+  
+</html>
